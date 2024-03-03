@@ -1,0 +1,6 @@
+VIT MP color scheme
+
+Blue: 40A2E3
+Beige: FFF6E9
+Light Blue: BBE2EC
+Green: 0D9276
